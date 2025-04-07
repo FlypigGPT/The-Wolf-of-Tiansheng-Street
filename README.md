@@ -1,5 +1,8 @@
 # The-Wolf-of-Tiansheng-Street
 
+2025/4/7 
+收到了一些小伙伴的反馈，预计即将上线新功能，规模较大，所以我们会保留第一版的Main代码~
+
 Because most of the people who use this app are Chinese, I use Chinese~
 
 注：本程序数据来源：Alpha Vantage，最好你需要自己去这个官网申请一个免费的API Key哦（虽然我们默认提供了一个）
